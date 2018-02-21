@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "30899484164",
+    "firebase_url": "https://follychat-fa64c.firebaseio.com",
+    "project_id": "follychat-fa64c",
+    "storage_bucket": "follychat-fa64c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30899484164:android:218173bbe1e3da80",
+        "android_client_info": {
+          "package_name": "com.example.wolly.follychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30899484164-55np9l1063orljicgh5k9t2el8mva8jp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wolly.follychat",
+            "certificate_hash": "e2028260f21c08e2defc87fab396d57ccc89a4e9"
+          }
+        },
+        {
+          "client_id": "30899484164-bnpgmppaokgqq2s624dsblig9cuk47ca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0gu7zICCfU8CZn0ucJLwOFGKdG0gg4-I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30899484164-bnpgmppaokgqq2s624dsblig9cuk47ca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
